@@ -1,0 +1,6 @@
+com/lorance/ogel/dao/mapper/ProductionRowMapper.class
+com/lorance/ogel/model/Runtime.class
+com/lorance/ogel/dao/mapper/RuntimeRowMapper.class
+com/lorance/ogel/config/propertiesWithJavaConfig.class
+com/lorance/ogel/model/Production.class
+com/lorance/ogel/config/DBConfiguration.class

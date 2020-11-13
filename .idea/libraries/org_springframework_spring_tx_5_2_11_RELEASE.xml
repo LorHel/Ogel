@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.springframework:spring-tx:5.2.11.RELEASE" type="repository">
+    <properties maven-id="org.springframework:spring-tx:5.2.11.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-5.2.11.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-5.2.11.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.2.11.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.2.11.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

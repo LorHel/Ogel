@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ogel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ogel</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ogel.war">
+      <element id="artifact" artifact-name="ogel:war exploded" />
+    </root>
+  </artifact>
+</component>
